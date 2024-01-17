@@ -78,6 +78,6 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Label Content="Nguyen Quoc Khanh" Margin="656,371,10,32" RenderTransformOrigin="-0.22,0.929"/>
+        <Label Content="Nguyen Quoc Khanh" Margin="656,371,10,32" RenderTransformOrigin="-0.22,0.929" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>

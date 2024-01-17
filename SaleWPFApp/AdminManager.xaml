@@ -13,6 +13,6 @@
             <Button Name="btnManageProduct" Width="150" Height="20" Margin="20" Background="SkyBlue" FontWeight="DemiBold" Click="btnManageProduct_Click">Manage Products</Button>
             <Button x:Name="btnManageOrder" Width="150" Height="20" Background="SkyBlue" FontWeight="DemiBold" Click="btnManageOrder_Click" Content="Manage Orders"/>
         </StackPanel>
-        <Label Content="Nguyen Thi An" Margin="675,374,24,29"/>
+        <Label Content="Nguyen Thi An" Margin="675,374,24,29" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>
