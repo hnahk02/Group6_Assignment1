@@ -15,6 +15,6 @@
             <PasswordBox x:Name="pwbPassword" HorizontalAlignment="Center" Width="200"></PasswordBox>
             <Button Width="100" Height="20" Margin="20" Background="SkyBlue" FontWeight="DemiBold" Click="Button_Click">Login</Button>
         </StackPanel>
-        <Label Content="Nguyen Thi An" Margin="0,0,250,126" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+        <Label Content="Nguyen Thi An" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>

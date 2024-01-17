@@ -67,6 +67,6 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Label Content="Nguyen An Tuan" Margin="675,374,24,29" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+        <Label Content="Nguyen An Tuan"  HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>

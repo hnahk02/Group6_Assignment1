@@ -23,6 +23,6 @@
 
             <Button Width="100" Height="20" Margin="20" Background="SkyBlue" FontWeight="DemiBold" Click="Button_Click">Edit</Button>
         </StackPanel>
-        <Label Content="Nguyen Thi An" Margin="675,374,24,29" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+        <Label Content="Nguyen Thi An" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>

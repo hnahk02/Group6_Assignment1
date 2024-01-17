@@ -12,6 +12,6 @@
             <Button Name="btnEditProfile" Width="150" Height="20" Margin="0 20 0 20" Background="SkyBlue" FontWeight="DemiBold" Click="btnEditProfile_Click">Edit Profile</Button>
             <Button x:Name="btnViewHistoryr" Width="150" Height="20" Background="SkyBlue" FontWeight="DemiBold" Click="btnViewHistoryr_Click" Content="View order history"/>
         </StackPanel>
-        <Label Content="Nguyen Thi An" Margin="675,374,24,29" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+        <Label Content="Nguyen Thi An" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>
