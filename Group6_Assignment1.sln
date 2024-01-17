@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{31AD81DB-3807-4C3C-81AE-2A507C8128A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{31AD81DB-3807-4C3C-81AE-2A507C8128A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObject", "BusinessObject\BusinessObject.csproj", "{8A6100A5-B89D-4EBB-BB26-58064EF903B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessObject", "BusinessObject\BusinessObject.csproj", "{8A6100A5-B89D-4EBB-BB26-58064EF903B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleWPFApp", "SaleWPFApp\SaleWPFApp.csproj", "{F2AB710B-8B24-403D-AA0F-A3474944CD36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaleWPFApp", "SaleWPFApp\SaleWPFApp.csproj", "{F2AB710B-8B24-403D-AA0F-A3474944CD36}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation Layer", "1.Presentation Layer", "{48E27000-5E5E-49DB-966F-94FD3E1D7592}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business Layer", "2. Business Layer", "{75CDBEC8-67CB-44DB-A7C3-9C014416E7E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data Layer", "3. Data Layer", "{FBD219A9-F1EC-461F-B0E4-D1D111DE01C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{5DF38987-BA16-4C4B-9A48-96C585747F17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
